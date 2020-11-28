@@ -4,6 +4,14 @@
 
 export const environment = {
   production: false
+  apiKey: 'AIzaSyByqh1APyEoAruNDie6Cab7BWnUDQBqkdE',
+  authDomain: 'fir-fotos-248c2.firebaseapp.com',
+  databaseURL: 'https://fir-fotos-248c2.firebaseio.com',
+  projectId: 'fir-fotos-248c2',
+  storageBucket: 'fir-fotos-248c2.appspot.com',
+  messagingSenderId: '353174248686',
+  appId: '1:353174248686:web:be38f78ec1f37e009567ff',
+  measurementId: 'G-RNZ22KFNBB'
 };
 
 /*
